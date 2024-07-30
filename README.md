@@ -14,5 +14,8 @@ hectare and the necessary seed quantity in kilograms per acre for the recommende
 crop. 
 
 # Simple Screen Shot
+![WhatsApp Image 2024-07-29 at 22 08 23_2c9e61af](https://github.com/user-attachments/assets/28e3b0a5-a7c5-483d-960a-7b6f137728eb)
+
 ![WhatsApp Image 2024-07-29 at 22 08 23_249fe0ed](https://github.com/user-attachments/assets/a8f971bb-d4c9-4708-a307-6661873ea818)
+
 ![WhatsApp Image 2024-07-29 at 22 08 23_651cf42f](https://github.com/user-attachments/assets/03105817-00bc-4bdb-a3db-3286ba0f4745)
