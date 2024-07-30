@@ -12,7 +12,35 @@ to thrive under specific conditions. Moreover, the model provides additional ins
 such as the required fertilizers (Nitrogen, Phosphorus, and Potassium) in kilograms per 
 hectare and the necessary seed quantity in kilograms per acre for the recommended 
 crop. 
+# Features
+Predicts the most suitable crop based on historical data and environmental parameters.
+Provides information on required fertilizers, seeds, and market prices for the recommended crop.
+Estimates the potential yield in quintal per acre for the recommended crop.
+User-friendly web application for easy input of local parameters and accessing recommendations.
+Integration of the model with real-time weather data for accurate predictions.
+Dataset
+The crop prediction model utilizes the "Crop Recommendation Dataset" obtained from Kaggle. This dataset contains information on various crops, including their nutrient requirements, weather conditions, and other relevant parameters. The dataset has been preprocessed and prepared for training the machine learning model.
 
+#Dataset Source: 
+Crop Recommendatuon Dataset
+
+# Technology Used
+Python
+Machine Learning (scikit-learn)
+Flask (for web application)
+HTML/CSS/JavaScript (for frontend development)
+Usage
+Enter the required parameters such as soil characteristics, weather conditions, and other relevant information.
+Click on the "Predict" button to receive the recommended crop along with additional details such as required fertilizers, seeds, market prices, and potential yield.
+Contributors
+Stuti Mahajan
+Ujjwal Tajne
+Abhishek Kumar
+Mansi Sahu
+
+# Acknowledgements
+
+We would like to express our gratitude to SmartBridge for providing us with the opportunity to work on this project and enhance our skills in Data science, machine learning and web development.
 # Simple Screen Shot
 ![1 2](https://github.com/user-attachments/assets/114f1107-ad9a-48ff-a23a-1366d3905e8d)
 
